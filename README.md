@@ -1,11 +1,11 @@
-# xtozh_figures
+# diboson_figures
 Figures-Only repository for ExoDiboson analysis
 
-git clone git@github.com:syuvivida/xtozh_figures.git
+git clone git@github.com:syuvivida/diboson_figures.git
 
-cd xtozh_figures
+cd diboson_figures
 
-git remote add upstream git@github.com:syuvivida/xtozh_figures.git
+git remote add upstream git@github.com:syuvivida/diboson_figures.git
 
 git add ...
 
